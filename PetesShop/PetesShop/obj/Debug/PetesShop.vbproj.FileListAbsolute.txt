@@ -1,0 +1,87 @@
+h:\documents\visual studio 2013\Projects\PetesShop\PetesShop\bin\Debug\PetesShop.exe.config
+h:\documents\visual studio 2013\Projects\PetesShop\PetesShop\bin\Debug\PetesShop.exe
+h:\documents\visual studio 2013\Projects\PetesShop\PetesShop\bin\Debug\PetesShop.pdb
+h:\documents\visual studio 2013\Projects\PetesShop\PetesShop\bin\Debug\PetesShop.xml
+h:\documents\visual studio 2013\Projects\PetesShop\PetesShop\obj\Debug\PetesShop.Resources.resources
+h:\documents\visual studio 2013\Projects\PetesShop\PetesShop\obj\Debug\PetesShop.posForm.resources
+h:\documents\visual studio 2013\Projects\PetesShop\PetesShop\obj\Debug\PetesShop.vbproj.GenerateResource.Cache
+h:\documents\visual studio 2013\Projects\PetesShop\PetesShop\obj\Debug\PetesShop.exe
+h:\documents\visual studio 2013\Projects\PetesShop\PetesShop\obj\Debug\PetesShop.xml
+h:\documents\visual studio 2013\Projects\PetesShop\PetesShop\obj\Debug\PetesShop.pdb
+X:\School\ICCFALL2014\CMPSC124-VisBasic\PetesShop\PetesShop\bin\Debug\PetesShop.exe.config
+X:\School\ICCFALL2014\CMPSC124-VisBasic\PetesShop\PetesShop\obj\Debug\PetesShop.exe
+X:\School\ICCFALL2014\CMPSC124-VisBasic\PetesShop\PetesShop\obj\Debug\PetesShop.xml
+X:\School\ICCFALL2014\CMPSC124-VisBasic\PetesShop\PetesShop\obj\Debug\PetesShop.pdb
+X:\School\ICCFALL2014\CMPSC124-VisBasic\PetesShop\PetesShop\bin\Debug\PetesShop.exe
+X:\School\ICCFALL2014\CMPSC124-VisBasic\PetesShop\PetesShop\bin\Debug\PetesShop.pdb
+X:\School\ICCFALL2014\CMPSC124-VisBasic\PetesShop\PetesShop\bin\Debug\PetesShop.xml
+X:\School\ICCFALL2014\CMPSC124-VisBasic\PetesShop\PetesShop\obj\Debug\PetesShop.Resources.resources
+X:\School\ICCFALL2014\CMPSC124-VisBasic\PetesShop\PetesShop\obj\Debug\PetesShop.posForm.resources
+X:\School\ICCFALL2014\CMPSC124-VisBasic\PetesShop\PetesShop\obj\Debug\PetesShop.vbproj.GenerateResource.Cache
+X:\School\ICCFALL2014\CMPSC124-VisBasic\PetesShop\PetesShop\obj\Debug\PetesShop.splashForm.resources
+H:\Documents\Visual Studio 2013\Projects\PetesShopPOSandModuleWeek1\PetesShop\PetesShop\bin\Debug\PetesShop.exe.config
+H:\Documents\Visual Studio 2013\Projects\PetesShopPOSandModuleWeek1\PetesShop\PetesShop\obj\Debug\PetesShop.exe
+H:\Documents\Visual Studio 2013\Projects\PetesShopPOSandModuleWeek1\PetesShop\PetesShop\obj\Debug\PetesShop.xml
+H:\Documents\Visual Studio 2013\Projects\PetesShopPOSandModuleWeek1\PetesShop\PetesShop\obj\Debug\PetesShop.pdb
+H:\Documents\Visual Studio 2013\Projects\PetesShopPOSandModuleWeek1\PetesShop\PetesShop\bin\Debug\PetesShop.exe
+H:\Documents\Visual Studio 2013\Projects\PetesShopPOSandModuleWeek1\PetesShop\PetesShop\bin\Debug\PetesShop.pdb
+H:\Documents\Visual Studio 2013\Projects\PetesShopPOSandModuleWeek1\PetesShop\PetesShop\bin\Debug\PetesShop.xml
+H:\Documents\Visual Studio 2013\Projects\PetesShopPOSandModuleWeek1\PetesShop\PetesShop\obj\Debug\PetesShop.Resources.resources
+H:\Documents\Visual Studio 2013\Projects\PetesShopPOSandModuleWeek1\PetesShop\PetesShop\obj\Debug\PetesShop.posForm.resources
+H:\Documents\Visual Studio 2013\Projects\PetesShopPOSandModuleWeek1\PetesShop\PetesShop\obj\Debug\PetesShop.splashForm.resources
+H:\Documents\Visual Studio 2013\Projects\PetesShopPOSandModuleWeek1\PetesShop\PetesShop\obj\Debug\PetesShop.vbproj.GenerateResource.Cache
+H:\Documents\Visual Studio 2013\Projects\PetesShopPOSandModuleWeek1\PetesShop\PetesShop\obj\Debug\PetesShop.tenderedForm.resources
+X:\School\ICCFALL2014\CMPSC124-VisBasic\FINAL\PetesShop\PetesShop\bin\Debug\PetesShop.exe.config
+X:\School\ICCFALL2014\CMPSC124-VisBasic\FINAL\PetesShop\PetesShop\obj\Debug\PetesShop.exe
+X:\School\ICCFALL2014\CMPSC124-VisBasic\FINAL\PetesShop\PetesShop\obj\Debug\PetesShop.xml
+X:\School\ICCFALL2014\CMPSC124-VisBasic\FINAL\PetesShop\PetesShop\obj\Debug\PetesShop.pdb
+X:\School\ICCFALL2014\CMPSC124-VisBasic\FINAL\PetesShop\PetesShop\bin\Debug\PetesShop.exe
+X:\School\ICCFALL2014\CMPSC124-VisBasic\FINAL\PetesShop\PetesShop\bin\Debug\PetesShop.pdb
+X:\School\ICCFALL2014\CMPSC124-VisBasic\FINAL\PetesShop\PetesShop\bin\Debug\PetesShop.xml
+X:\School\ICCFALL2014\CMPSC124-VisBasic\FINAL\PetesShop\PetesShop\obj\Debug\PetesShop.Resources.resources
+X:\School\ICCFALL2014\CMPSC124-VisBasic\FINAL\PetesShop\PetesShop\obj\Debug\PetesShop.posForm.resources
+X:\School\ICCFALL2014\CMPSC124-VisBasic\FINAL\PetesShop\PetesShop\obj\Debug\PetesShop.splashForm.resources
+X:\School\ICCFALL2014\CMPSC124-VisBasic\FINAL\PetesShop\PetesShop\obj\Debug\PetesShop.tenderedForm.resources
+X:\School\ICCFALL2014\CMPSC124-VisBasic\FINAL\PetesShop\PetesShop\obj\Debug\PetesShop.vbproj.GenerateResource.Cache
+C:\Users\ps349\Downloads\PetesShop Week 2 w Tendered Form\PetesShop\PetesShop\bin\Debug\PetesShop.exe.config
+C:\Users\ps349\Downloads\PetesShop Week 2 w Tendered Form\PetesShop\PetesShop\obj\Debug\PetesShop.exe
+C:\Users\ps349\Downloads\PetesShop Week 2 w Tendered Form\PetesShop\PetesShop\obj\Debug\PetesShop.xml
+C:\Users\ps349\Downloads\PetesShop Week 2 w Tendered Form\PetesShop\PetesShop\obj\Debug\PetesShop.pdb
+C:\Users\ps349\Downloads\PetesShop Week 2 w Tendered Form\PetesShop\PetesShop\bin\Debug\PetesShop.exe
+C:\Users\ps349\Downloads\PetesShop Week 2 w Tendered Form\PetesShop\PetesShop\bin\Debug\PetesShop.pdb
+C:\Users\ps349\Downloads\PetesShop Week 2 w Tendered Form\PetesShop\PetesShop\bin\Debug\PetesShop.xml
+C:\Users\ps349\Downloads\PetesShop Week 2 w Tendered Form\PetesShop\PetesShop\obj\Debug\PetesShop.changeForm.resources
+C:\Users\ps349\Downloads\PetesShop Week 2 w Tendered Form\PetesShop\PetesShop\obj\Debug\PetesShop.Resources.resources
+C:\Users\ps349\Downloads\PetesShop Week 2 w Tendered Form\PetesShop\PetesShop\obj\Debug\PetesShop.posForm.resources
+C:\Users\ps349\Downloads\PetesShop Week 2 w Tendered Form\PetesShop\PetesShop\obj\Debug\PetesShop.splashForm.resources
+C:\Users\ps349\Downloads\PetesShop Week 2 w Tendered Form\PetesShop\PetesShop\obj\Debug\PetesShop.tenderedForm.resources
+C:\Users\ps349\Downloads\PetesShop Week 2 w Tendered Form\PetesShop\PetesShop\obj\Debug\PetesShop.vbproj.GenerateResource.Cache
+C:\Users\ps349\Downloads\PetesShopw3\PetesShop\PetesShop\bin\Debug\PetesShop.exe.config
+C:\Users\ps349\Downloads\PetesShopw3\PetesShop\PetesShop\obj\Debug\PetesShop.exe
+C:\Users\ps349\Downloads\PetesShopw3\PetesShop\PetesShop\obj\Debug\PetesShop.xml
+C:\Users\ps349\Downloads\PetesShopw3\PetesShop\PetesShop\obj\Debug\PetesShop.pdb
+C:\Users\ps349\Downloads\PetesShopw3\PetesShop\PetesShop\bin\Debug\PetesShop.exe
+C:\Users\ps349\Downloads\PetesShopw3\PetesShop\PetesShop\bin\Debug\PetesShop.pdb
+C:\Users\ps349\Downloads\PetesShopw3\PetesShop\PetesShop\bin\Debug\PetesShop.xml
+C:\Users\ps349\Downloads\PetesShopw3\PetesShop\PetesShop\obj\Debug\PetesShop.changeForm.resources
+C:\Users\ps349\Downloads\PetesShopw3\PetesShop\PetesShop\obj\Debug\PetesShop.Resources.resources
+C:\Users\ps349\Downloads\PetesShopw3\PetesShop\PetesShop\obj\Debug\PetesShop.posForm.resources
+C:\Users\ps349\Downloads\PetesShopw3\PetesShop\PetesShop\obj\Debug\PetesShop.splashForm.resources
+C:\Users\ps349\Downloads\PetesShopw3\PetesShop\PetesShop\obj\Debug\PetesShop.tenderedForm.resources
+C:\Users\ps349\Downloads\PetesShopw3\PetesShop\PetesShop\obj\Debug\PetesShop.vbproj.GenerateResource.Cache
+C:\Users\ps349\Downloads\PetesShopw3\PetesShop\PetesShop\obj\Debug\PetesShop.receiptForm.resources
+D:\School\ICCFALL2014\CMPSC124-VisBasic\PetesShopw3\PetesShop\PetesShop\bin\Debug\PetesShop.exe.config
+D:\School\ICCFALL2014\CMPSC124-VisBasic\PetesShopw3\PetesShop\PetesShop\obj\Debug\PetesShop.exe
+D:\School\ICCFALL2014\CMPSC124-VisBasic\PetesShopw3\PetesShop\PetesShop\obj\Debug\PetesShop.xml
+D:\School\ICCFALL2014\CMPSC124-VisBasic\PetesShopw3\PetesShop\PetesShop\obj\Debug\PetesShop.pdb
+D:\School\ICCFALL2014\CMPSC124-VisBasic\PetesShopw3\PetesShop\PetesShop\bin\Debug\PetesShop.exe
+D:\School\ICCFALL2014\CMPSC124-VisBasic\PetesShopw3\PetesShop\PetesShop\bin\Debug\PetesShop.pdb
+D:\School\ICCFALL2014\CMPSC124-VisBasic\PetesShopw3\PetesShop\PetesShop\bin\Debug\PetesShop.xml
+D:\School\ICCFALL2014\CMPSC124-VisBasic\PetesShopw3\PetesShop\PetesShop\obj\Debug\PetesShop.vbprojResolveAssemblyReference.cache
+D:\School\ICCFALL2014\CMPSC124-VisBasic\PetesShopw3\PetesShop\PetesShop\obj\Debug\PetesShop.changeForm.resources
+D:\School\ICCFALL2014\CMPSC124-VisBasic\PetesShopw3\PetesShop\PetesShop\obj\Debug\PetesShop.receiptForm.resources
+D:\School\ICCFALL2014\CMPSC124-VisBasic\PetesShopw3\PetesShop\PetesShop\obj\Debug\PetesShop.Resources.resources
+D:\School\ICCFALL2014\CMPSC124-VisBasic\PetesShopw3\PetesShop\PetesShop\obj\Debug\PetesShop.posForm.resources
+D:\School\ICCFALL2014\CMPSC124-VisBasic\PetesShopw3\PetesShop\PetesShop\obj\Debug\PetesShop.splashForm.resources
+D:\School\ICCFALL2014\CMPSC124-VisBasic\PetesShopw3\PetesShop\PetesShop\obj\Debug\PetesShop.tenderedForm.resources
+D:\School\ICCFALL2014\CMPSC124-VisBasic\PetesShopw3\PetesShop\PetesShop\obj\Debug\PetesShop.vbproj.GenerateResource.Cache
